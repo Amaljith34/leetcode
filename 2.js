@@ -39,5 +39,5 @@ function fn(a,b) {
     
 }
 
-fn([2, 4, 3],[5,6,4]); // Expected output: "452"
+fn([9,9,9,9,9,9,9],[9,9,9,9]); // Expected output: "452"
 
