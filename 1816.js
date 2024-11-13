@@ -7,4 +7,4 @@ const fun=function(s,k) {
   return str
     
 };
-console.log(fun("Hello how are you Contestant",4));
+console.log(fun("Hello how are you Conteant",4));
