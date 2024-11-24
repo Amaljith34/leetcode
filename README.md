@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amaljith34/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Amaljith34/leetcode/tree/master/0189-rotate-array) |
+| [2048-build-array-from-permutation](https://github.com/Amaljith34/leetcode/tree/master/2048-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amaljith34/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Amaljith34/leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
