@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amaljith34/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amaljith34/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Amaljith34/leetcode/tree/master/0189-rotate-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Amaljith34/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Amaljith34/leetcode/tree/master/2048-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Amaljith34/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
