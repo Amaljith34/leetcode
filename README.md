@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amaljith34/leetcode/tree/master/0217-contains-duplicate) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Amaljith34/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2048-build-array-from-permutation](https://github.com/Amaljith34/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2232-adding-spaces-to-a-string](https://github.com/Amaljith34/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Amaljith34/leetcode/tree/master/0189-rotate-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Amaljith34/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Amaljith34/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2232-adding-spaces-to-a-string](https://github.com/Amaljith34/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Amaljith34/leetcode/tree/master/0058-length-of-last-word) |
+| [2232-adding-spaces-to-a-string](https://github.com/Amaljith34/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
