@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Amaljith34/leetcode/tree/master/0058-length-of-last-word) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amaljith34/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2232-adding-spaces-to-a-string](https://github.com/Amaljith34/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Amaljith34/leetcode/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amaljith34/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
