@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Amaljith34/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Amaljith34/leetcode/tree/master/0189-rotate-array) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Amaljith34/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Amaljith34/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
