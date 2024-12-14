@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amaljith34/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Amaljith34/leetcode/tree/master/0217-contains-duplicate) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Amaljith34/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/Amaljith34/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Amaljith34/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amaljith34/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Amaljith34/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Amaljith34/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Amaljith34/leetcode/tree/master/0189-rotate-array) |
+| [1635-number-of-good-pairs](https://github.com/Amaljith34/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Amaljith34/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Amaljith34/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Two Pointers
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amaljith34/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Amaljith34/leetcode/tree/master/0217-contains-duplicate) |
+| [1635-number-of-good-pairs](https://github.com/Amaljith34/leetcode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amaljith34/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Amaljith34/leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
