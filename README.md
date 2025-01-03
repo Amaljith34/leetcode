@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Amaljith34/leetcode/tree/master/0058-length-of-last-word) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amaljith34/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amaljith34/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amaljith34/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Amaljith34/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Amaljith34/leetcode/tree/master/2491-smallest-even-multiple) |
+## Greedy
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amaljith34/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
